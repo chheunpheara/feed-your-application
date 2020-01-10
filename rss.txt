@@ -1,0 +1,5 @@
+https://cyware.com/allnews/feed
+https://blog.apnic.net/feed
+https://techcrunch.com/feed
+https://news.google.com/news/rss
+https://news.google.com/news
